@@ -1,0 +1,2 @@
+# stari
+text new project
